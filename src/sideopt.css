@@ -1,0 +1,14 @@
+.sidebaropt {
+  color: grey;
+  cursor: pointer;
+  margin-top: 15px;
+  padding-left: 10px;
+  transition: 200ms color ease-in;
+  display: flex;
+}
+.sidebaropt.hover {
+  color: white;
+}
+.icon {
+  padding-right: 10px;
+}
